@@ -5,5 +5,3 @@
 #Open URL
 #Wait to Return
 #Show Alert (Titel: Alert Welcome back)
-
-print 'Pythonista action'
