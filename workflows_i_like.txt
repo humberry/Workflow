@@ -1,7 +1,8 @@
 I haven't tried them all, so take care...
 
 2pdf
-Rich text, Text, URLs to PDF / filename suggested but editable / Need verification to get in the gallery
+rich text, text, url to pdf / filename suggested, but editable
+https://workflow.is/workflows/e719fb68533b4e828323d7fbac7c181a
 
 CountImages
 https://workflow.is/workflows/7328156d42694c98949bac069ba5a974
@@ -20,3 +21,7 @@ https://workflow.is/workflows/a3c014d3071e4396ba53d63bd029be54
 
 GSM Power Socket
 https://workflow.is/workflows/07d3dfc7b78443978fc8cb2e7d1a2092
+
+Duplicate workflow
+https://workflow.is/workflows/0be2906d284c446ab27dca950f63a036
+http://www.thoughtasylum.com/blog/2015/1/11/workflow-ios-a-workflow-to-duplicate-workflows.html
